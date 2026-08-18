@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-fp1bxw.kujang138gold.site/sitemap.xml
